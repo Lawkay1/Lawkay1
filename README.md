@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oluwasube&label=Profile%20views&color=0e75b6&style=flat" alt="oluwasube" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lawkay1&label=Profile%20views&color=0e75b6&style=flat" alt="Lawkay1" /> </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&duration=5400&color=fff&lines=Hi+there;I+am+a+Software+engineer+building+ideas;)](https://git.io/typing-svg)
 
@@ -25,15 +25,15 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwasube&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Lawkay1&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Promise GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwasube&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Promise GitHub stats](https://github-readme-stats.vercel.app/api?username=Lawkay1&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oluwasube&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lawkay1&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 
 <!--
-**oluwasube/oluwasube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lawkay1/Lawkay1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
